@@ -7,6 +7,9 @@ Here are the steps to take to get airflow 2.0 running with docker on your machin
 ```bash
 mkdir ./dags ./logs ./plugins
 ```
+Tutorial docker
+https://airflow.apache.org/docs/apache-airflow/stable/start/docker.htm
+
 1. Install docker desktop application if you don't have docker running on your machine
 - [Download Docker Desktop Application for Mac OS](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 - [Download Docker Desktop Application for Windows](https://hub.docker.com/editions/community/docker-ce-desktop-windows)
